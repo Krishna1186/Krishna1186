@@ -8,8 +8,6 @@ I'm building [payment-agent-harness](https://github.com/Krishna1186/payment-agen
 
 **Conquest.** Tech Lead at Asia's largest student-run startup accelerator, 3,000+ startup applications per cohort. Owned the website, the internal CRM behind application review, the Mentor Portal, the Demo Day platform, and a tool tracking 20+ cohort startups after they left. [Architecture docs](https://github.com/Krishna1186/conquest-architecture).
 
-**CEL Labs.** Co-founded our campus venture studio.
-
 **[Millora](https://github.com/Krishna1186/millora-build).** Marketplace connecting hardware prototyping customers with manufacturers. Post a CAD file with your material and process, get bids back.
 
 **[Figma Decomposer](https://github.com/Krishna1186/figma-agent).** Figma plugin that takes a flat AI-generated image and breaks it into separate editable layers, using colour-space and edge segmentation. Built it when nothing else did this.
